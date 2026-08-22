@@ -22,7 +22,7 @@ L'objectif est d'intégrer la maquette **Booki** en HTML et CSS, en respectant l
 
 | Version Desktop | Version Mobile |
 |-----------------|----------------|
-| *(À venir - Captures d'écran)* | *(À venir - Captures d'écran)* |
+| ![Aperçu Desktop](desktop.jpeg) | ![Aperçu Mobile](mobile.jpeg) |
 
 ---
 
