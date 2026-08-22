@@ -20,9 +20,11 @@ L'objectif est d'intégrer la maquette **Booki** en HTML et CSS, en respectant l
 
 ## 🖥️ Aperçu du projet
 
-| Version Desktop | Version Mobile |
-|-----------------|----------------|
-| ![Aperçu Desktop](desktop.jpeg) | ![Aperçu Mobile](mobile.jpeg) |
+**Version Desktop**  
+![Aperçu Desktop](desktop.jpeg)
+
+**Version Mobile**  
+![Aperçu Mobile](mobile.jpeg)
 
 ---
 
