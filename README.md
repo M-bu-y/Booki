@@ -88,15 +88,15 @@ https://maquette-figma.png
 🔗 Lien vers la maquette interactive : Cliquez ici pour voir la maquette Figma
 (Remplacez le lien par le vôtre)
 
-🎨 Maquette Figma
 
-La maquette du site a été conçue sur Figma avant l'intégration HTML/CSS.
+📸 Captures d'écran
 
-https://maquette-figma.png
-(Ajoutez votre image de maquette ici)
+Page                                                           	Aperçu
 
-🔗 Lien vers la maquette interactive : Cliquez ici pour voir la maquette Figma
-(Remplacez le lien par le vôtre)
+Accueil                                             desktop	(À ajouter)
+Accueil                                            tablette	(À ajouter)
+Accueil                                              mobile	(À ajouter)
+
 
 👤 Auteur
 
