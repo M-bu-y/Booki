@@ -77,18 +77,18 @@ git clone git@github.com:M-bu-y/Booki.git
 
 Intégration Figma	     Reproduire fidèlement la maquette (couleurs, espacements, typographie).
 Responsive Design	     Adapter le site aux trois formats (desktop, tablette, mobile).
-Code propre	           Utiliser les bonnes pratiques HTML/CSS (sémantique, BEM, etc.).
+Code propre	            Utiliser les bonnes pratiques HTML/CSS (sémantique, BEM, etc.).
 Versionnement Git	     Gérer le projet avec Git et GitHub.
 
-🎨 Maquette Figma
 
-La maquette du site a été conçue sur Figma avant l'intégration HTML/CSS.
+## 🎨 Maquette Figma
 
-https://maquette-figma.png
-(Ajoutez votre image de maquette ici)
+La maquette du site a été entièrement conçue sur Figma avant l'intégration HTML/CSS.
 
-🔗 Lien vers la maquette interactive : Cliquez ici pour voir la maquette Figma
-(Remplacez le lien par le vôtre)
+![Aperçu de la maquette Booki](maquette-booki.png)
+
+🔗 **Lien vers la maquette interactive** : [Cliquez ici pour voir la maquette sur Figma](https://www.figma.com/file/.../Booki)  
+*(Remplacez le lien par le vôtre)*
 
 
 📸 Captures d'écran
