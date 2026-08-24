@@ -71,6 +71,7 @@ git clone git@github.com:M-bu-y/Booki.git
 
 (Aucun serveur ou installation complexe n'est requis, c'est du pur HTML/CSS statique).
 
+
 🎯 Objectifs du projet
 
  Objectif	             Détail
@@ -85,10 +86,9 @@ Versionnement Git	     Gérer le projet avec Git et GitHub.
 
 La maquette du site a été entièrement conçue sur Figma avant l'intégration HTML/CSS.
 
-![Aperçu de la maquette Booki](maquette-booki.png)
+![Aperçu de la maquette Booki](Maquettes-Booki.png)
 
-🔗 **Lien vers la maquette interactive** : [Cliquez ici pour voir la maquette sur Figma](https://www.figma.com/file/.../Booki)  
-*(Remplacez le lien par le vôtre)*
+🔗 **Lien vers la maquette interactive** : [Cliquez ici pour voir la maquette sur Figma](https://www.figma.com/design/Muv2EmTF77WNDAbK2Wj0RQ/Maquettes-Booki?node-id=3-0&t=HQBhHiWOVGlH7g2R-1)
 
 
 📸 Captures d'écran
