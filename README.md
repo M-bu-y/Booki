@@ -100,11 +100,14 @@ Ouvrez ensuite le fichier index.html dans votre navigateur (double-clic ou "Ouvr
 
 📌 Fonctionnalités clés
 
-Fonctionnalité	 Description
+Fonctionnalité	 Descripti
 
-## 👤 Auteur
 
-**Emmanuel M. Bamanya (M-bu-y)**
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/M-bu-y)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/M-bu-y)
+
+
+
+*##👤 Auteur*
+
+Emmanuel M. Bamanya (M-bu-y)
+GitHub | LinkedIn
