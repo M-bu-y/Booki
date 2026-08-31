@@ -98,7 +98,26 @@ Ouvrez ensuite le fichier index.html dans votre navigateur (double-clic ou "Ouvr
 
 Aucun serveur ou installation complexe n'est requis : c'est du pur HTML/CSS statique.
 
----
- *🚀 Visualiser le projet en local*
 
+📌 Fonctionnalités clés
+
+    ✅ Recherche d'hébergements par ville
+
+    ✅ Filtres (Économique, Familial, Romantique, Nos pépites)
+
+    ✅ Affichage des hébergements populaires
+
+    ✅ Affichage des activités à proximité
+
+    ✅ Interface responsive (desktop, tablette, mobile)
+
+
+👤 Auteur
+
+Emmanuel M. Bamanya (M-bu-y)
+
+https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat
+https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat
+
+⭐ Projet réalisé dans le cadre de la formation OpenClassrooms - Toute ressemblance avec un site existant serait purement fortuite.
 
