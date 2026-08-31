@@ -73,7 +73,7 @@ git clone git@github.com:M-bu-y/Booki.git
 
 ---
 
-🎯 Objectifs du projet
+## 🎯 Objectifs du projet
 
  Objectif	             Détail
 
