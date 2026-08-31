@@ -102,41 +102,6 @@ Ouvrez ensuite le fichier index.html dans votre navigateur (double-clic ou "Ouvr
 
 Fonctionnalité	 Description
 
-Recherche	       Recherche d'hébergements par ville (Muanda, Kinshasa, etc.)
-Filtres	         Économique, Familial, Romantique, Nos pépites
-Hébergements	   Affichage des hébergements populaires avec prix et notation
-Activités	       Affichage des activités à proximité
-Responsive	     Interface adaptée à desktop, tablette et mobile
-
-
-
-
----
-
-## 🔧 COMMENT L'INSTALLER
-
-1. **Allez sur votre dépôt GitHub** :  
-   `https://github.com/M-bu-y/Booki`
-
-2. **Ouvrez votre fichier `README.md`** (cliquez sur son nom).
-
-3. **Cliquez sur le crayon (✏️)** en haut à droite pour modifier.
-
-4. **Supprimez tout l'ancien contenu** (Ctrl+A puis Suppr).
-
-5. **Collez le nouveau contenu** ci-dessus (Ctrl+V).
-
-6. **En bas**, cliquez sur **"Commit changes..."** (validez).
-
-7. **Rafraîchissez** votre dépôt : les badges GitHub et LinkedIn doivent apparaître en bas.
-
----
-
-## ✅ SI ÇA NE MARCHE PAS ENCORE
-
-Voici un **plan B** (encore plus simple) :
-
-```markdown
 ## 👤 Auteur
 
 **Emmanuel M. Bamanya (M-bu-y)**
