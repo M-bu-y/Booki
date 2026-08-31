@@ -71,6 +71,7 @@ git clone git@github.com:M-bu-y/Booki.git
 
 (Aucun serveur ou installation complexe n'est requis, c'est du pur HTML/CSS statique).
 
+---
 
 🎯 Objectifs du projet
 
@@ -81,6 +82,7 @@ Responsive Design	     Adapter le site aux trois formats (desktop, tablette, mob
 Code propre	            Utiliser les bonnes pratiques HTML/CSS (sémantique, BEM, etc.).
 Versionnement Git	     Gérer le projet avec Git et GitHub.
 
+---
 
 ## 🎨 Maquette Figma
 
@@ -90,6 +92,7 @@ La maquette du site a été entièrement conçue sur Figma avant l'intégration 
 
 🔗 **Lien vers la maquette interactive** : [Cliquez ici pour voir la maquette sur Figma](https://www.figma.com/design/Muv2EmTF77WNDAbK2Wj0RQ/Maquettes-Booki?node-id=3-0&t=HQBhHiWOVGlH7g2R-1)
 
+---
 
 📸 Captures d'écran
 
