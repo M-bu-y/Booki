@@ -98,5 +98,5 @@ git clone git@github.com:M-bu-y/Booki.git
 # (double-clic ou "Ouvrir avec" depuis l'explorateur de fichiers)
 
 
-
+Aucun serveur ou installation complexe n'est requis, c'est du pur HTML/CSS statique.
 
