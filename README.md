@@ -45,6 +45,7 @@ La maquette du site a été entièrement conçue sur Figma avant l'intégration 
 
 ---
 
+
 ## 📸 Captures d'écran
 
 | Page | Aperçu |
@@ -111,3 +112,15 @@ Aucun serveur ou installation complexe n'est requis, c'est du pur HTML/CSS stati
     ✅ Affichage des activités à proximité
 
     ✅ Interface responsive (desktop, tablette, mobile)
+
+
+
+👤 Auteur
+
+Emmanuel M. Bamanya (M-bu-y)
+
+
+https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat
+
+
+⭐ Projet réalisé dans le cadre de la formation OpenClassrooms - Toute ressemblance avec un site existant serait purement fortuite.
