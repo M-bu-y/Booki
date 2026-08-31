@@ -96,18 +96,7 @@ git clone git@github.com:M-bu-y/Booki.git
 
 Ouvrez ensuite le fichier index.html dans votre navigateur (double-clic ou "Ouvrir avec").
 
-    Aucun serveur ou installation complexe n'est requis : c'est du pur HTML/CSS statique.
-
-📌 Fonctionnalités clés
-
-Fonctionnalité	 Descripti
+Aucun serveur ou installation complexe n'est requis : c'est du pur HTML/CSS statique.
 
 
 
-
-
-
-*##👤 Auteur*
-
-Emmanuel M. Bamanya (M-bu-y)
-GitHub | LinkedIn
