@@ -100,3 +100,14 @@ git clone git@github.com:M-bu-y/Booki.git
 
 Aucun serveur ou installation complexe n'est requis, c'est du pur HTML/CSS statique.
 
+📌 Fonctionnalités clés
+
+    ✅ Recherche d'hébergements par ville
+
+    ✅ Filtres (Économique, Familial, Romantique, Nos pépites)
+
+    ✅ Affichage des hébergements populaires
+
+    ✅ Affichage des activités à proximité
+
+    ✅ Interface responsive (desktop, tablette, mobile)
