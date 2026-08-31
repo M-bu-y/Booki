@@ -98,5 +98,7 @@ Ouvrez ensuite le fichier index.html dans votre navigateur (double-clic ou "Ouvr
 
 Aucun serveur ou installation complexe n'est requis : c'est du pur HTML/CSS statique.
 
+---
+ *🚀 Visualiser le projet en local*
 
 
