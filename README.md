@@ -108,9 +108,38 @@ Hébergements	   Affichage des hébergements populaires avec prix et notation
 Activités	       Affichage des activités à proximité
 Responsive	     Interface adaptée à desktop, tablette et mobile
 
-👤 Auteur
 
-Emmanuel M. Bamanya (M-bu-y)
-<a href="https://github.com/M-bu-y"> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub"> </a> <a href="https://linkedin.com/in/M-bu-y"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"> </a>
 
-⭐ Projet réalisé dans le cadre de la formation OpenClassrooms - Toute ressemblance avec un site existant serait purement fortuite.
+
+---
+
+## 🔧 COMMENT L'INSTALLER
+
+1. **Allez sur votre dépôt GitHub** :  
+   `https://github.com/M-bu-y/Booki`
+
+2. **Ouvrez votre fichier `README.md`** (cliquez sur son nom).
+
+3. **Cliquez sur le crayon (✏️)** en haut à droite pour modifier.
+
+4. **Supprimez tout l'ancien contenu** (Ctrl+A puis Suppr).
+
+5. **Collez le nouveau contenu** ci-dessus (Ctrl+V).
+
+6. **En bas**, cliquez sur **"Commit changes..."** (validez).
+
+7. **Rafraîchissez** votre dépôt : les badges GitHub et LinkedIn doivent apparaître en bas.
+
+---
+
+## ✅ SI ÇA NE MARCHE PAS ENCORE
+
+Voici un **plan B** (encore plus simple) :
+
+```markdown
+## 👤 Auteur
+
+**Emmanuel M. Bamanya (M-bu-y)**
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/M-bu-y)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/M-bu-y)
