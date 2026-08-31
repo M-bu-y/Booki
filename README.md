@@ -93,23 +93,25 @@ Booki/
 
 ```bash
 git clone git@github.com:M-bu-y/Booki.git
+```
 
-Ouvrez ensuite le fichier index.html dans votre navigateur (double-clic ou "Ouvrir avec").
+Ouvrez ensuite le fichier `index.html` dans votre navigateur (double-clic ou "Ouvrir avec").
 
-    Aucun serveur ou installation complexe n'est requis : c'est du pur HTML/CSS statique.
+> **Aucun serveur ou installation complexe n'est requis** : c'est du pur HTML/CSS statique.
 
-📌 Fonctionnalités clés
+---
 
-    ✅ Recherche d'hébergements par ville
+## 📌 Fonctionnalités clés
 
-    ✅ Filtres (Économique, Familial, Romantique, Nos pépites)
+| Fonctionnalité | Description |
+| :--- | :--- |
+| **Recherche** | Recherche d'hébergements par ville (Muanda, Kinshasa, etc.) |
+| **Filtres** | Économique, Familial, Romantique, Nos pépites |
+| **Hébergements** | Affichage des hébergements populaires avec prix et notation |
+| **Activités** | Affichage des activités à proximité |
+| **Responsive** | Interface adaptée à desktop, tablette et mobile |
 
-    ✅ Affichage des hébergements populaires
-
-    ✅ Affichage des activités à proximité
-
-    ✅ Interface responsive (desktop, tablette, mobile)
-
+---
 
 ## 👤 Auteur
 
@@ -118,5 +120,7 @@ Ouvrez ensuite le fichier index.html dans votre navigateur (double-clic ou "Ouvr
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/M-bu-y)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/emmanuel-mbuyi)
 
-⭐ Projet réalisé dans le cadre de la formation OpenClassrooms - Toute ressemblance avec un site existant serait purement fortuite
+---
+
+⭐ *Projet réalisé dans le cadre de la formation OpenClassrooms - Toute ressemblance avec un site existant serait purement fortuite.*
 
