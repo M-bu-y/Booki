@@ -68,3 +68,52 @@ La maquette du site a été entièrement conçue sur Figma avant l'intégration 
 ---
 
 ## 📁 Structure du projet
+
+Booki/
+│
+├── index.html # Page d'accueil
+├── style.css # Fichier CSS principal
+│
+├── assets/
+│ ├── css/
+│ │ └── style.css # CSS principal
+│ ├── images/
+│ │ ├── activites/ # Images des activités
+│ │ ├── hebergements/ # Images des hébergements
+│ │ └── logo/ # Logo Booki
+│ └── icones/ # Icônes (Font Awesome)
+│
+├── README.md # Ce fichier
+└── Maquettes-Booki.png # Maquette Figma
+
+---
+
+## 🚀 Visualiser le projet en local
+
+```bash
+# Cloner le dépôt
+git clone git@github.com:M-bu-y/Booki.git
+
+# Ouvrir le fichier index.html dans votre navigateur
+# (double-clic ou "Ouvrir avec" depuis l'explorateur de fichiers)
+
+📌 Fonctionnalités clés
+
+    ✅ Recherche d'hébergements par ville
+
+    ✅ Filtres (Économique, Familial, Romantique, Nos pépites)
+
+    ✅ Affichage des hébergements populaires
+
+    ✅ Affichage des activités à proximité
+
+    ✅ Interface responsive (desktop, tablette, mobile)
+
+👤 Auteur
+
+Emmanuel M. Bamanya (M-bu-y)
+
+https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat
+https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat
+
+⭐ Projet réalisé dans le cadre de la formation OpenClassrooms - Toute ressemblance avec un site existant serait purement fortuite.
